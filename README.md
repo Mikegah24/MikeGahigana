@@ -1,4 +1,6 @@
-#  Active Directory Lab on Azure
+### Hi there my Name is Mike Gahigana
+
+
 
 This project sets up a simple but realistic Active Directory lab using two Azure VMs:
 - **DC1** – Windows Server 2022, configured as Domain Controller and DNS server
