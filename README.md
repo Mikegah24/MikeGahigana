@@ -7,8 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [VM Setup - Domain Controller and Client](https://github.com/Mikegah24/User-Creation)
-  - [Domain Configuration - Domain Controller Promotion](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [VM Setup - Domain Controller and Client configuration](https://github.com/Mikegah24/lab-setup)
+  - [Creating OUs and Users](https://github.com/Mikegah24/User-Creation)
+  - [Scenarios - password policies, lockout policies ](https://github.com/Mikegah24/ad-scenarios)
 
 <h2>🤳Connect with me:</h2>
 
