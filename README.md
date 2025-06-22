@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [VM Setup - Domain Controller and Client configuration](https://github.com/Mikegah24/lab-setup)
   - [Creating OUs and Users](https://github.com/Mikegah24/User-Creation)
+  - [Group policy and Password policies](https://github.com/Mikegah24/Group-policy)
   - [Scenarios - password policies, lockout policies ](https://github.com/Mikegah24/ad-scenarios)
 
 <h2>🤳Connect with me:</h2>
