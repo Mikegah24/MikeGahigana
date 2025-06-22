@@ -9,5 +9,8 @@
   - [Scenarios - password policies, lockout policies ](https://github.com/Mikegah24/ad-scenarios)
 
 - <b>Splunk Lab</b>  
-- []
-[linkedin]: https://linkedin.com/in/mikegahigana
+  - [Lab setup and Configurations](https://github.com/Mikegah24/Splunk-Lab)
+  - [Splunk installation on VMs](https://github.com/Mikegah24/Splunk-Lab)
+  - [Receiving and Sender ports setup](https://github.com/Mikegah24/Splunk-Lab)
+ 
+
