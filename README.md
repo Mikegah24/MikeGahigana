@@ -9,9 +9,9 @@
   - [Scenarios - password policies, lockout policies ](https://github.com/Mikegah24/ad-scenarios)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/Mikegah24/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Mikegah24/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Mikegah24/ticket-lifecycle)
 
 - <b>Splunk Lab</b>  
   - [Lab setup and Configurations](https://github.com/Mikegah24/Splunk-Lab)
