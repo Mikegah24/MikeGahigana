@@ -18,6 +18,14 @@
   - [Splunk installation on VMs](https://github.com/Mikegah24/Splunk-Lab)
   - [Receiving and Sender ports setup](https://github.com/Mikegah24/Splunk-Lab)
  
+  ------------------------------------------------------------------------------------------------------
+
+ <h2>⚙ CyberSecurity Projects:</h2>
+
+ - <b>OpenVAS</b>
+ 
+     - [Installation and Configuration](https://github.com/Mikegah24/open-vas)
+ 
 <h2>🤳Connect with me:</h2>
 
 
