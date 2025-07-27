@@ -21,10 +21,7 @@
   ------------------------------------------------------------------------------------------------------
 
  <h2>⚙ CyberSecurity Projects:</h2>
-
- - <b>OpenVAS</b>
- 
-     - [Installation and Configuration](https://github.com/Mikegah24/open-vas)
+  !!! Working to update these, thanks for your patience!!!
  
 <h2>🤳Connect with me:</h2>
 
