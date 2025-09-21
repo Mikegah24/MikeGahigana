@@ -20,7 +20,7 @@
  
   ------------------------------------------------------------------------------------------------------
 
- <h2>⚙ CyberSecurity Projects:</h2>
+ <h2>⚙ Networking Projects:</h2>
   !!! Working to update these, thanks for your patience!!!
  
 <h2>🤳Connect with me:</h2>
